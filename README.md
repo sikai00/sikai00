@@ -14,4 +14,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Numbers and figures
-![Si Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikai00&hide=stars,contribs)
+![Si Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikai00&hide=stars,contribs&count_private=true)
