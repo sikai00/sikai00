@@ -7,6 +7,7 @@
   - 🎸 Playing the guitar
   - 🏋️ Keeping fit (weight training and calisthenics)
 - 📫 You can reach me at csikai@u.nus.edu, or through [LinkedIn](https://www.linkedin.com/in/si-kai-chang-211924218/)!
+- https://sikai00.vercel.app/
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
