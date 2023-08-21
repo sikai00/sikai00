@@ -17,4 +17,4 @@
 ### Numbers and figures
 ![Si Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikai00&count_private=true&hide=stars)
 
-![](https://komarev.com/ghpvc/?username=sikai00)
+<!-- ![](https://komarev.com/ghpvc/?username=sikai00) -->
