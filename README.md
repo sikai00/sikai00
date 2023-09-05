@@ -1,7 +1,7 @@
 ### Hi, I'm Si Kai 👋
 
 - 🎓 I'm a computer science undergraduate at National University of Singapore. Currently also pursing focus areas in both 📀 database systems and 🌐  networking!
-- 🤩 My interests are in **software engineering** and **back end development**. 
+- 🤩 My interests are in **software engineering** and **full stack development**. 
 - When I'm not on my computer learning, I enjoy: 
   - 🏸 Sports (squash, basketball and more)
   - 🎸 Playing the guitar
